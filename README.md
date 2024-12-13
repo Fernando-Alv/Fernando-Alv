@@ -4,7 +4,7 @@
 
 <p align="left">Sou estudante de  Análise e Desenvolvimento de Sistemas, atualmente faço parte do programa 1000DEVs, onde estou aprimorando meus conhecimentos em programação com foco em desenvolvimento back-end utilizando a linguagem Java.</p>
 
-### 📊 Estatísticas
+### 
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Fernando-Alv&hide_title=false&hide_rank=false&show_icons=true&theme=midnight-purple&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
