@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de  Análise e Desenvolvimento de Sistemas, atualmente faço parte do programa 1000DEVs, onde estou aprimorando meus conhecimentos em programação com foco em desenvolvimento back-end utilizando a linguagem Java.</p>
+<p align="left">Recém formado em Análise e Desenvolvimento de Sistemas, estou aprimorando meus conhecimentos em programação com foco em desenvolvimento back-end utilizando a linguagem Java.</p>
 
 ### 
 
