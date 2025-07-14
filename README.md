@@ -1,27 +1,78 @@
-<h2 align="left">Olá! Sejam bem vindos ao meu Github!</h2>
+<h2 align="left">👨🏻‍💻Olá! Sejam bem vindos ao meu Github!</h2>
 
 ###
 
-<p align="left">Recém formado em Análise e Desenvolvimento de Sistemas, estou aprimorando meus conhecimentos em programação com foco em desenvolvimento back-end utilizando a linguagem Java.</p>
+<p align="left">Recém formado em Análise e Desenvolvimento de Sistemas, estou aprimorando meus conhecimentos em programação com foco em desenvolvimento back-end utilizando Java, Spring Boot, MySQL, Docker e APIs REST.</p>
 
 ### 
+---
+### 🕵🏻 Linguagens e Tecnologias
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fernando-Alv&hide_title=false&hide_rank=false&show_icons=true&theme=midnight-purple&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fernando-Alv&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=midnight-purple&hide_border=true" height="149" alt="languages graph"  />
-</div>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
-### 
+<br/>
+<br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+### 📊 Estatísticas
 
-###
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Fernando-Alv&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Alv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br clear="all" />
+<br />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fernandoalv/" target="_blank">
